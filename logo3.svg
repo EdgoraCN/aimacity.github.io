@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>aimacity</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon fill="#3399ff" id="svg_1" points="197.241 116.314 145.755 130.123 62.4503 124.849 62.4503 107.779 145.755 102.505 197.241 116.314" stroke="#000000" stroke-width="0" transform="rotate(-89.1372 129.846 116.314)"/>
+  <polygon fill="#FF0000" id="svg_2" points="452,238 452,238 452,238 452,238 452,238 452,238 " stroke="#000000" stroke-width="5"/>
+  <polygon fill="#f0b300" id="svg_3" points="246.928 105.597 185.119 121.398 85.1111 115.363 85.1111 95.8304 185.119 89.7946 246.928 105.597" stroke="#f0b300" stroke-width="0" transform="rotate(-79.2918 166.019 105.597)"/>
+  <polygon fill="#3a8d01" id="svg_4" points="149.158 129.892 104.411 151.689 32.0089 143.363 32.0089 116.421 104.411 108.095 149.158 129.892" stroke="#000000" stroke-width="0" transform="rotate(-100.879 90.5836 129.892)"/>
+  <polygon fill="#ffffff" id="svg_10" points="54,10.366691589355469 59.08628845214844,24.999313354492188 74.57449340820312,25.31494140625 62.22979736328125,34.67402648925781 66.71574401855469,49.501708984375 54,40.6533203125 41.28425598144531,49.501708984375 45.77020263671875,34.67402648925781 33.425506591796875,25.31494140625 48.91371154785156,24.999313354492188 54,10.366691589355469 59.08628845214844,24.999313354492188 " stroke="#fe5e3a" stroke-width="3"/>
+  <line fill="none" id="svg_20" stroke="#fe5e3a" stroke-width="2" x1="34" x2="23" y1="38" y2="47"/>
+  <line fill="none" id="svg_21" stroke="#fe5e3a" stroke-width="2" x1="51" x2="30" y1="54" y2="72"/>
+  <line fill="none" id="svg_23" stroke="#fe5e3a" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="2" x1="25" x2="36" y1="58" y2="48"/>
+  <ellipse cx="144" cy="163" fill="#f0b300" id="svg_5" stroke="#f0b300" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <ellipse cx="94" cy="26" fill="#fe5e3a" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <rect fill="#ffffff" height="10.907709" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="rotate(9.306435585021973 168.65179443359364,92.4830169677734) " width="12.96796" x="162.167816" y="87.029165"/>
+  <rect fill="#ffffff" height="9.702041" id="svg_13" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="rotate(-15.4096 90.1432 122.823)" width="12.999999" x="83.643156" y="117.972075"/>
+  <ellipse cx="130.010688" cy="112.539602" fill="#ffffff" id="svg_15" rx="6.083011" ry="6.202724" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="rotate(177.478 130.011 112.54)"/>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>AimaCity</title>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#fe5e3a" transform="rotate(89.98003387451172 200.55340576171872,201.56343078613284) " ry="175.001" rx="176.49745" id="svg_57" cy="201.56343" cx="200.5534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="36" fill="#000000" fill-opacity="0"/>
+  <ellipse stroke="#00bf00" transform="rotate(-4.398731708526611 200.4912109375011,202.8852691650391) " ry="56.08412" rx="154.42644" id="svg_58" cy="202.88528" cx="200.49121" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00bf00"/>
+  <ellipse stroke-width="0" stroke="#cccc39" transform="rotate(-6.009006023406982 190.54383850097656,195.916442871094) " ry="27.86155" rx="71.83092" id="svg_52" cy="195.91644" cx="190.54384" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#efef4a"/>
+  <ellipse stroke="#fe5e3a" ry="18" rx="18" id="svg_55" cy="192" cx="182" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="6" fill="#7c492e"/>
+  <ellipse stroke="#56aaff" ry="29" rx="29" id="svg_62" cy="227" cx="326" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#5656ff"/>
+  <ellipse stroke="#aa56ff" ry="48" rx="47.5" id="svg_64" cy="322" cx="78.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#f0b300"/>
+  <ellipse ry="10.5" rx="10.5" id="svg_71" cy="170.5" cx="226.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#2c355c" stroke="#56aaff"/>
+ </g>
+</svg>
